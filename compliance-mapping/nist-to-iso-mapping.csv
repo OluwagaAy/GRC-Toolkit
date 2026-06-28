@@ -1,0 +1,100 @@
+NIST Function,NIST Category,NIST Subcategory,ISO 27001:2022 Control,Description,MAPELEAD Priority
+IDENTIFY (ID),Asset Management (ID.AM),ID.AM-1,5.9,Inventory of physical and digital assets,High
+IDENTIFY (ID),Asset Management (ID.AM),ID.AM-2,5.9,Software platforms and applications inventory,High
+IDENTIFY (ID),Asset Management (ID.AM),ID.AM-3,5.9,Organizational communication and data flows,Medium
+IDENTIFY (ID),Asset Management (ID.AM),ID.AM-4,5.9,External information systems catalogued,Medium
+IDENTIFY (ID),Asset Management (ID.AM),ID.AM-5,5.10,Resources prioritized based on classification,High
+IDENTIFY (ID),Business Environment (ID.BE),ID.BE-1,5.1,Role in supply chain identified,Medium
+IDENTIFY (ID),Business Environment (ID.BE),ID.BE-2,5.1,Place in critical infrastructure identified,Medium
+IDENTIFY (ID),Business Environment (ID.BE),ID.BE-3,5.1,Priorities for organizational objectives established,Medium
+IDENTIFY (ID),Business Environment (ID.BE),ID.BE-4,5.1,Dependencies and critical functions identified,Medium
+IDENTIFY (ID),Business Environment (ID.BE),ID.BE-5,5.30,Resilience requirements for critical functions,Medium
+IDENTIFY (ID),Governance (ID.GV),ID.GV-1,5.1,Organizational cybersecurity policy established,High
+IDENTIFY (ID),Governance (ID.GV),ID.GV-2,5.1,Cybersecurity roles and responsibilities,High
+IDENTIFY (ID),Governance (ID.GV),ID.GV-3,5.1,Legal and regulatory requirements addressed,High
+IDENTIFY (ID),Governance (ID.GV),ID.GV-4,5.1,Governance and risk management processes,High
+IDENTIFY (ID),Risk Assessment (ID.RA),ID.RA-1,5.12,Asset vulnerabilities identified,High
+IDENTIFY (ID),Risk Assessment (ID.RA),ID.RA-2,5.12,Cyber threat intelligence received,High
+IDENTIFY (ID),Risk Assessment (ID.RA),ID.RA-3,5.12,Threats identified and documented,High
+IDENTIFY (ID),Risk Assessment (ID.RA),ID.RA-4,5.12,Potential business impacts assessed,High
+IDENTIFY (ID),Risk Assessment (ID.RA),ID.RA-5,5.12,Risk assessment process established,High
+IDENTIFY (ID),Risk Assessment (ID.RA),ID.RA-6,5.12,Risk responses identified and prioritized,High
+PROTECT (PR),Identity Management (PR.AC),PR.AC-1,5.15,Identities and credentials managed,High
+PROTECT (PR),Identity Management (PR.AC),PR.AC-2,5.15,Physical access managed,High
+PROTECT (PR),Identity Management (PR.AC),PR.AC-3,5.15,Remote access managed,High
+PROTECT (PR),Identity Management (PR.AC),PR.AC-4,5.15,Access permissions managed,High
+PROTECT (PR),Identity Management (PR.AC),PR.AC-5,5.15,Network integrity protected,High
+PROTECT (PR),Identity Management (PR.AC),PR.AC-6,5.18,Identities proofed and bound to credentials,Medium
+PROTECT (PR),Identity Management (PR.AC),PR.AC-7,5.17,Least privilege and separation of duties,High
+PROTECT (PR),Awareness and Training (PR.AT),PR.AT-1,6.3,All users trained and informed,High
+PROTECT (PR),Awareness and Training (PR.AT),PR.AT-2,6.3,Privileged users trained,High
+PROTECT (PR),Awareness and Training (PR.AT),PR.AT-3,6.3,Third-party stakeholders trained,Medium
+PROTECT (PR),Awareness and Training (PR.AT),PR.AT-4,6.3,Senior executives trained,Medium
+PROTECT (PR),Awareness and Training (PR.AT),PR.AT-5,6.3,Physical and cybersecurity personnel trained,High
+PROTECT (PR),Data Security (PR.DS),PR.DS-1,8.1,Data-at-rest protected,High
+PROTECT (PR),Data Security (PR.DS),PR.DS-2,8.1,Data-in-transit protected,High
+PROTECT (PR),Data Security (PR.DS),PR.DS-3,8.1,Assets formally managed throughout lifecycle,High
+PROTECT (PR),Data Security (PR.DS),PR.DS-4,8.1,Adequate capacity for availability,Medium
+PROTECT (PR),Data Security (PR.DS),PR.DS-5,8.1,Protections against data leaks,High
+PROTECT (PR),Data Security (PR.DS),PR.DS-6,8.1,Integrity checking mechanisms,High
+PROTECT (PR),Data Security (PR.DS),PR.DS-7,8.1,Development and testing environment separation,Medium
+PROTECT (PR),Data Security (PR.DS),PR.DS-8,8.1,Integrity verification tools,Medium
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-1,5.29,Policy for Baseline configurations,High
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-2,8.1,System Development Life Cycle (SDLC),High
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-3,5.8,Configuration change control,High
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-4,8.1,Backups created and tested,High
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-5,8.1,Policy and regulations regarding physical operating environment,Medium
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-6,5.28,Data destroyed according to policy,High
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-7,8.1,Protection of data at rest,High
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-8,8.1,Effectiveness of protection technologies,Medium
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-9,5.8,Response plans tested,High
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-10,5.8,Response plans updated,Medium
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-11,5.8,Human resources practices for cybersecurity,High
+PROTECT (PR),Information Protection Processes (PR.IP),PR.IP-12,5.8,Development and testing environment separation,Medium
+PROTECT (PR),Maintenance (PR.MA),PR.MA-1,8.1,Maintenance and repair performed and logged,Medium
+PROTECT (PR),Maintenance (PR.MA),PR.MA-2,8.1,Remote maintenance approved and monitored,Medium
+PROTECT (PR),Protective Technology (PR.PT),PR.PT-1,8.1,Audit/log records determined and documented,High
+PROTECT (PR),Protective Technology (PR.PT),PR.PT-2,8.1,Audit/log records protected,High
+PROTECT (PR),Protective Technology (PR.PT),PR.PT-3,8.1,Access to systems restricted to authorized users/systems,High
+PROTECT (PR),Protective Technology (PR.PT),PR.PT-4,8.1,Communications and control networks protected,High
+PROTECT (PR),Protective Technology (PR.PT),PR.PT-5,8.1,Integrity checking mechanisms,Medium
+DETECT (DE),Anomalies and Events (DE.AE),DE.AE-1,8.15,Baseline for network operations established,High
+DETECT (DE),Anomalies and Events (DE.AE),DE.AE-2,8.15,Detected events analyzed for attack targets,High
+DETECT (DE),Anomalies and Events (DE.AE),DE.AE-3,8.15,Event data collected from multiple sources,High
+DETECT (DE),Anomalies and Events (DE.AE),DE.AE-4,8.15,Impact of events determined,High
+DETECT (DE),Anomalies and Events (DE.AE),DE.AE-5,8.15,Incident alert thresholds established,High
+DETECT (DE),Security Continuous Monitoring (DE.CM),DE.CM-1,8.15,Network monitored for unauthorized devices,High
+DETECT (DE),Security Continuous Monitoring (DE.CM),DE.CM-2,8.15,Network monitored for unauthorized software,High
+DETECT (DE),Security Continuous Monitoring (DE.CM),DE.CM-3,8.15,Remote access monitored,High
+DETECT (DE),Security Continuous Monitoring (DE.CM),DE.CM-4,8.15,Malicious code detected,High
+DETECT (DE),Security Continuous Monitoring (DE.CM),DE.CM-5,8.15,Unauthorized mobile code detected,Medium
+DETECT (DE),Security Continuous Monitoring (DE.CM),DE.CM-6,8.15,External service provider activity monitored,Medium
+DETECT (DE),Security Continuous Monitoring (DE.CM),DE.CM-7,8.15,Monitoring for unauthorized personnel and activities,High
+DETECT (DE),Security Continuous Monitoring (DE.CM),DE.CM-8,8.15,Vulnerability scans performed,High
+DETECT (DE),Detection Processes (DE.DP),DE.DP-1,5.25,Roles and responsibilities for detection defined,High
+DETECT (DE),Detection Processes (DE.DP),DE.DP-2,5.25,Detection activities comply with requirements,High
+DETECT (DE),Detection Processes (DE.DP),DE.DP-3,5.25,Detection processes tested,Medium
+DETECT (DE),Detection Processes (DE.DP),DE.DP-4,5.25,Event detection information communicated,High
+DETECT (DE),Detection Processes (DE.DP),DE.DP-5,5.25,Detection processes improved continuously,Medium
+RESPOND (RS),Response Planning (RS.RP),RS.RP-1,5.24,Response plan executed during or after an incident,High
+RESPOND (RS),Communications (RS.CO),RS.CO-1,5.24,Personnel know their roles during incident,High
+RESPOND (RS),Communications (RS.CO),RS.CO-2,5.24,Incidents reported according to criteria,High
+RESPOND (RS),Communications (RS.CO),RS.CO-3,5.24,Information shared with designated stakeholders,Medium
+RESPOND (RS),Communications (RS.CO),RS.CO-4,5.24,Coordination with stakeholders occurs,Medium
+RESPOND (RS),Communications (RS.CO),RS.CO-5,5.24,Voluntary information sharing occurs,Low
+RESPOND (RS),Analysis (RS.AN),RS.AN-1,5.24,Investigations of incidents conducted,High
+RESPOND (RS),Analysis (RS.AN),RS.AN-2,5.24,Effects of incidents understood,High
+RESPOND (RS),Analysis (RS.AN),RS.AN-3,5.24,Forensic capabilities identified,Medium
+RESPOND (RS),Analysis (RS.AN),RS.AN-4,5.24,Incidents categorized and prioritized,High
+RESPOND (RS),Analysis (RS.AN),RS.AN-5,5.24,Processes for digital forensics established,Medium
+RESPOND (RS),Mitigation (RS.MI),RS.MI-1,5.24,Incidents contained,High
+RESPOND (RS),Mitigation (RS.MI),RS.MI-2,5.24,Incidents mitigated,High
+RESPOND (RS),Mitigation (RS.MI),RS.MI-3,5.24,Newly identified vulnerabilities mitigated,High
+RESPOND (RS),Improvements (RS.IM),RS.IM-1,5.24,Response plans incorporate lessons learned,High
+RESPOND (RS),Improvements (RS.IM),RS.IM-2,5.24,Response strategies updated,Medium
+RECOVER (RC),Recovery Planning (RC.RP),RC.RP-1,5.30,Recovery plan executed during or after incident,High
+RECOVER (RC),Improvements (RC.IM),RC.IM-1,5.30,Recovery plans incorporate lessons learned,High
+RECOVER (RC),Improvements (RC.IM),RC.IM-2,5.30,Recovery strategies updated,Medium
+RECOVER (RC),Communications (RC.CO),RC.CO-1,5.30,Public relations managed,Medium
+RECOVER (RC),Communications (RC.CO),RC.CO-2,5.30,Reputation repaired after incident,Medium
+RECOVER (RC),Communications (RC.CO),RC.CO-3,5.30,Recovery activities communicated,Medium
